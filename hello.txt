@@ -1,5 +1,4 @@
 Hi, my name is Kuntal Bhattacharjee.
 My age is 23.
-I am an aspiring software developer.New Feature Code.
-
-Some code.
+I am an aspiring software developer.New Feature Code
+Some other text and code.
